@@ -1,4 +1,4 @@
--module(ffi).
+-module(term_size_ffi).
 -export([terminal_size/0]).
 
 terminal_size() ->

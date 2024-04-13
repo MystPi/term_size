@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning].
 
 ## [Unreleased]
 
+### Changed
+
+- Changed FFI module name to aviod potential name clashes on Erlang
+
 ## [1.0.0] - 2024-04-12
 
 - initial release

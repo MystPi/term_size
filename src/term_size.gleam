@@ -16,8 +16,8 @@
 /// }
 /// ```
 ///
-@external(erlang, "ffi", "terminal_size")
-@external(javascript, "./ffi.mjs", "terminal_size")
+@external(erlang, "term_size_ffi", "terminal_size")
+@external(javascript, "./term_size_ffi.mjs", "terminal_size")
 pub fn get() -> Result(#(Int, Int), Nil)
 
 /// Get the number of rows (lines) visible in the terminal.

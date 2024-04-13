@@ -1,5 +1,5 @@
 name = "term_size"
-version = "1.0.0"
+version = "1.0.1"
 description = "Retrieve the terminal's size in rows and columns on all targets"
 licences = ["Apache-2.0"]
 repository = { type = "github", user = "MystPi", repo = "term_size" }

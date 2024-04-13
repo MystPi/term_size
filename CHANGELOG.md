@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning].
 
 ## [Unreleased]
 
+## [1.0.1] - 2024-04-13
+
 ### Changed
 
 - Changed FFI module name to aviod potential name clashes on Erlang
@@ -22,5 +24,6 @@ and this project adheres to [Semantic Versioning].
 
 <!-- Versions -->
 
-[unreleased]: https://github.com/MystPi/term_size/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/MystPi/term_size/releases/tag/v1.0.0
+[unreleased]: https://github.com/MystPi/term_size/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/MystPi/term_size/releases/v1.0.1
+[1.0.0]: https://github.com/MystPi/term_size/releases/v1.0.0
